@@ -24,32 +24,32 @@ body {
     margin-top: -8px;
 }
 
-a {
+.container a {
     color: aqua;
     text-decoration: none;
     font-weight: bold;
 
 }
 
-a:link {
+.container a:link {
     color: aqua;
     text-decoration: none;
     font-weight: bold;
 }
 
-a:visited {
+.container a:visited {
     color: aquamarine;
     text-decoration: none;
     font-weight: bold;
 }
 
-a:hover {
+.container a:hover {
     color: mediumaquamarine;
     text-decoration: none;
     font-weight: bold;
 }
 
-a:active {
+.container a:active {
     color: aqua;
     text-decoration: none;
     font-weight: bold;
