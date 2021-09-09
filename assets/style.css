@@ -4,12 +4,13 @@ body {
 
 .container {
     color: white;
-    width: 39%;
     /* border: 1px solid cyan; */
     padding: 3%;
     margin-top: 30px;
     margin-right: auto;
     margin-left: auto;
+    width: 90%;
+    max-width: 500px;
 }
 
 .title {
